@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score
 
 #loading the saved model
 #heart_model = pickle.load(open('C:/Users/Jagdamb/OneDrive/Desktop/HDP/heart_disease_data.csv')) 
-heart_disease_model = pickle.load(open('C:/Users/Jagdamb/OneDrive/Desktop/KK/heart_disease_model.sav','rb')) 
+heart_disease_model = pickle.load(open('Project Files/heart_disease_model.sav,'rb')) 
 
 
 # sidebar for navigation
